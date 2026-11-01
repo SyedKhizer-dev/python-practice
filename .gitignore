@@ -1,1 +1,3 @@
 .ruff_cache/
+anaconda_projects/
+.virtual_documents/
